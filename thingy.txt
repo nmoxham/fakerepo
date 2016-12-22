@@ -6,4 +6,5 @@ Here's some important policy info:
 
 1. make checksums
 
+2. improve process
 
