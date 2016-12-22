@@ -1,4 +1,9 @@
-This is a fake thing for everyone to see and fork
+This is a fake file for everyone to see and fork 
 
 nothing important at all
+
+Here's some important policy info:
+
+1. make checksums
+
 
